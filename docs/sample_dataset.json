@@ -1,0 +1,20 @@
+[
+	{
+		"language": "Marathi",
+		"transcript": "माझे नाव अविनाश आहे.",
+		"duration": 3.2,
+		"status": "pending"
+	},
+	{
+		"language": "Hindi",
+		"transcript":"मेरा नाम अविनाश है|",
+		"duration": 2.8,
+		"status": "pending"
+	},
+	{
+		"language": "English",
+		"transcript": "My name is Avinash.",
+		"duration": 2.4,
+		"status": "pending"
+	}
+]
